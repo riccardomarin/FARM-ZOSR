@@ -1,4 +1,4 @@
-# FARM
+# FARM-ZOSR
 Marin, R. and Melzi, S. and Rodolà, E. and Castellani, U., High-Resolution Augmentation for Automatic Template-Based Matching of Human Models, 3DV 2019
 
 <p align="center">
